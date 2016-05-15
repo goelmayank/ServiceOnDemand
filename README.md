@@ -1,2 +1,2 @@
 # ServiceOnDemand
-Open source app that provides services like Ola
+Services like Ola - now open source
